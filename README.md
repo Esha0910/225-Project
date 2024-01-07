@@ -14,6 +14,7 @@ This approach involves leveraging various tools, including statistical modeling,
 
 
 git clone https://github.com/Esha0910/Currency-Exchange-Rate-Analysis.git
+
 cd Currency-Exchange-Rate-Analysis
 
 Run the following Jupyter notebook - "225_Exchange Rate Analysis_Final Project.ipynb"
